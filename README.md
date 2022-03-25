@@ -3,4 +3,4 @@
 The tests location is :-  cypress-test/cypress/integration
 
 # To run cypress
-  ''' npx cypress open '''
+  npx cypress open
